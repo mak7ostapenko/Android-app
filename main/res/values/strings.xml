@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TrainS</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add">AddActivity</string>
+
+    <string name="action_insert_dummy_data">Вставить данные</string>
+    <string name="action_show_graph">Показать графики</string>
+
+
+    <string name="action_save">Сохранить</string>
+    <string name="action_delete">Удалить</string>
+
+    <string name="perfect">Perfect</string>
+    <string name="good">Good</string>
+    <string name="normal">Normal</string>
+    <string name="discomfort">Discomfort</string>
+    <string name="bad">Bad</string>
+
+    <string-array name="feeling">
+        <item>@string/perfect</item>
+        <item>@string/good</item>
+        <item>@string/normal</item>
+        <item>@string/discomfort</item>
+        <item>@string/bad</item>
+    </string-array>
+
+    <string name="title_activity_graph">Graphics</string>
+
+    <string name="date">Date</string>
+    <string name="distance">Distance</string>
+    <string name="puls">Puls</string>
+    <string name="training_time">Train time</string>
+    <string name="feeling">Feeling</string>
+
+    <string-array name="axis">
+        <item>@string/date</item>
+        <item>@string/distance</item>
+        <item>@string/puls</item>
+        <item>@string/training_time</item>
+        <item>@string/feeling</item>
+    </string-array>
+
+</resources>
